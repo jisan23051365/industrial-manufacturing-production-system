@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Build artifacts
+obj/
+manufacturing_system
+
+# Runtime data files
+data/*.dat
